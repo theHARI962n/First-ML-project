@@ -29,3 +29,8 @@ The dataset used is available on Kaggle. It includes the following columns:
 - DiabetesPedigreeFunction
 - Age
 - Outcome (0 or 1, where 1 indicates diabetes)
+
+## Usage
+
+  Ensure you have the dataset (diabetes.csv) in the project directory.
+  Run the diabetes_prediction.py script to train the model and make predictions.
