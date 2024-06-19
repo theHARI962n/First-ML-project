@@ -30,6 +30,11 @@ The dataset used is available on Kaggle. It includes the following columns:
 - Age
 - Outcome (0 or 1, where 1 indicates diabetes)
 
+### Disclaimer : 
+I used a dataset which had around 700 number of data and which has an accuracy of 79%
+you can use any other dataset for higher accuracy if needed. 
+
+
 ## Usage
 
   Ensure you have the dataset (diabetes.csv) in the project directory.
