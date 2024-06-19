@@ -6,7 +6,6 @@ This repository contains a Diabetes Prediction System built using Python and Sci
 
 - Introduction
 - Dataset
-- Installation
 - Usage
 - Model Training and Evaluation
 - Making Predictions
