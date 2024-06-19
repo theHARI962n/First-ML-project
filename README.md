@@ -46,3 +46,15 @@ The model training and evaluation process includes the following steps:
 - Train-Test Split: Split the data into training and testing sets.
 - Model Training: Train the SVM model on the training data.
 - Model Evaluation: Evaluate the model's accuracy on the training and testing data.
+
+
+## Making Predictions
+
+
+
+## Contributing
+
+Contributions are welcome! Please add all that you would like to change to make it better
+
+
+
