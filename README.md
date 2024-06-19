@@ -49,7 +49,7 @@ The model training and evaluation process includes the following steps:
 
 
 ## Making Predictions
-
+Try making predictions by giving values on your own
 
 
 ## Contributing
