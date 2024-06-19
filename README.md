@@ -33,4 +33,5 @@ The dataset used is available on Kaggle. It includes the following columns:
 ## Usage
 
   Ensure you have the dataset (diabetes.csv) in the project directory.
+  
   Run the diabetes_prediction.py script to train the model and make predictions.
