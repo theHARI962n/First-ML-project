@@ -15,3 +15,17 @@ This repository contains a Diabetes Prediction System built using Python and Sci
 ## Introduction
 
 This project is designed to predict whether a person has diabetes based on specific diagnostic measures included in the dataset. The model is trained using an SVM with a linear kernel and evaluated on its accuracy.
+
+Dataset
+
+The dataset used is the Pima Indians Diabetes Database, available on Kaggle. It includes the following columns:
+
+Pregnancies
+Glucose
+BloodPressure
+SkinThickness
+Insulin
+BMI
+DiabetesPedigreeFunction
+Age
+Outcome (0 or 1, where 1 indicates diabetes)
