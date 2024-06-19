@@ -35,3 +35,14 @@ The dataset used is available on Kaggle. It includes the following columns:
   Ensure you have the dataset (diabetes.csv) in the project directory.
   
   Run the diabetes_prediction.py script to train the model and make predictions.
+
+
+## Model Training and Evaluation
+
+The model training and evaluation process includes the following steps:
+
+- Data Collection and Analysis: Load the dataset and perform basic analysis.
+- Data Standardization: Standardize the feature variables.
+- Train-Test Split: Split the data into training and testing sets.
+- Model Training: Train the SVM model on the training data.
+- Model Evaluation: Evaluate the model's accuracy on the training and testing data.
